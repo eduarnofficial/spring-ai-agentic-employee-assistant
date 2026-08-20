@@ -58,6 +58,32 @@ The AI can determine which tool is required, retrieve information from the appli
 
 ---
 
+# Spring AI Agentic Employee Assistant
+
+An AI-powered Employee Assistant built with **Spring Boot, Spring AI, Qwen 2.5, Ollama, H2, Tool Calling, Agentic AI, and RAG concepts**.
+
+## 🎥 Video Tutorial
+
+[![Spring AI Agentic Employee Assistant - Video Tutorial](https://img.youtube.com/vi/oyWtxjWufj8/maxresdefault.jpg)](https://youtu.be/oyWtxjWufj8)
+
+**▶️ Watch the complete tutorial on YouTube**
+
+In this tutorial, we build an AI employee assistant that can understand employee-related questions and use application tools to retrieve employee information and leave balances.
+
+### Topics Covered
+
+- Spring AI
+- Agentic AI
+- AI Tool Calling
+- Qwen 2.5
+- Ollama
+- Spring Boot AI applications
+- H2 Database
+- Employee management
+- Leave management
+- RAG and vector stores
+- Switching between AI model providers
+
 # 🎯 What This Project Demonstrates
 
 This project provides a practical introduction to several important AI application development concepts.
